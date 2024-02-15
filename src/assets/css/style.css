@@ -1403,7 +1403,7 @@ label {
 	07. Banner
 ===============================*/
 .banner-bg-two {
-  background: url("../img/banner/h2_banner_bg.jpg");
+  /* background: url("../img/banner/h2_banner_bg.jpg"); */
   background-size: cover;
   background-position: center;
   min-height: 770px;
@@ -1647,7 +1647,7 @@ label {
 
 /* banner-four */
 .banner-bg-four {
-  background: url("../img/banner/h4_banner_bg.jpg");
+  /* background: url("../img/banner/h4_banner_bg.jpg"); */
   background-size: cover;
   background-position: center;
   padding: 65px 0 0;
@@ -3359,7 +3359,7 @@ label {
 
 /* features-five */
 .features-bg {
-  background: url('../img/bg/features_bg.jpg');
+  /* background: url('../img/bg/features_bg.jpg'); */
   background-size: cover;
   background-position: center;
   padding: 120px 0 80px;
@@ -4729,14 +4729,14 @@ label {
 }
 .cta-inner-wrap-two,
 .cta-inner-wrap {
-  background: url("../img/bg/cta_bg.jpg");
+  /* background: url("../img/bg/cta_bg.jpg"); */
   background-size: cover;
   background-position: center;
   padding: 70px;
   border-radius: 10px;
 }
 .cta-inner-wrap-two {
-  background: url("../img/bg/cta_bg02.jpg");
+  /* background: url("../img/bg/cta_bg02.jpg"); */
 }
 .cta-content {
   display: flex;
@@ -4840,7 +4840,7 @@ label {
   display: none;
 }
 .cta-inner-wrap-three {
-  background: url("../img/bg/cta_bg03.jpg");
+  /* background: url("../img/bg/cta_bg03.jpg"); */
   background-size: cover;
   background-position: center;
   padding: 50px 45px;
@@ -5225,7 +5225,7 @@ label {
 	17. Project
 ===============================*/
 .project-bg {
-  background: url("../img/bg/project_bg.jpg");
+  /* background: url("../img/bg/project_bg.jpg"); */
   background-size: cover;
   background-position: center;
   padding: 120px 0 90px;
@@ -5307,7 +5307,7 @@ label {
 
 /* project-two */
 .project-bg-two {
-  background: url("../img/bg/project_bg02.jpg");
+  /* background: url("../img/bg/project_bg02.jpg"); */
   background-size: cover;
   background-position: center;
   padding: 120px 0 200px;
@@ -6463,7 +6463,7 @@ label {
 
 /* testimonial-two */
 .testimonial-bg-two {
-  background: url("../img/bg/h2_testimonial_bg.jpg");
+  /* background: url("../img/bg/h2_testimonial_bg.jpg"); */
   background-size: cover;
   background-position: center;
   padding: 120px 0;
@@ -6585,8 +6585,8 @@ label {
   width: 100%;
 }
 .testimonial-item-wrap-three {
-  background: url("../img/bg/h3_testimonial_bg.png"),
-    var(--tg-section-background);
+  /* background: url("../img/bg/h3_testimonial_bg.png"), */
+    /* var(--tg-section-background); */
   border-radius: 10px;
   padding: 100px 80px;
   background-size: cover;
@@ -6656,7 +6656,7 @@ label {
 
 /* testimonial-four */
 .testimonial-bg-four {
-  background: url("../img/bg/h4_testimonial_bg.jpg");
+  /* background: url("../img/bg/h4_testimonial_bg.jpg"); */
   background-size: cover;
   background-position: center;
   padding: 120px 0;
