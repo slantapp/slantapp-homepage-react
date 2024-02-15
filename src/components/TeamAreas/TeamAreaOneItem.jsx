@@ -46,7 +46,7 @@ export const TeamAreaOneItem = ({ member }) => {
 
       <div className="team-content">
         <h2 className="title">
-          <Link to={member.href}>{member.title} </Link>
+          <a>{member.title} </a>
         </h2>
 
         <span>{member.designation} </span>

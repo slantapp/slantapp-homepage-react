@@ -65,8 +65,8 @@ export const COUNTER_LIST_ONE = [
   },
   {
     id: 2,
-    count: 55,
-    suffix: "k",
+    count: 179,
+    suffix: "",
     title: "Complete Projects",
   },
   {

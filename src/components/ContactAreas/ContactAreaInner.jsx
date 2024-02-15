@@ -25,17 +25,42 @@ export const ContactAreaInner = () => {
                   <li>info@slantapp.com, support@slantapp.io</li>
                 </ul>
               </div>
-              {/* <div className="contact-info-item">
-                <h5 className="title-two">Australia Office</h5>
-                <ul className="list-wrap">
-                  <li>
-                    100 Wilshire Blvd, Suite 700 Santa <br />
-                    Monica, CA 90401, USA
-                  </li>
-                  <li>+1 (310) 620-8565</li>
-                  <li>info@gmail.com</li>
-                </ul>
-              </div> */}
+            </div>
+
+            <div style={{marginTop: "50px"}}></div>
+
+            <div className="contact-form">
+              <h5 className="title-two" style={{marginBottom: "20px"}}>Send Us an Email</h5>
+              <form action="#">
+                <div className="row">
+                  <div className="col-md-6">
+                    <div className="form-grp">
+                      <input type="text" placeholder="Name *" />
+                    </div>
+                  </div>
+                  <div className="col-md-6">
+                    <div className="form-grp">
+                      <input type="email" placeholder="E-mail *" />
+                    </div>
+                  </div>
+                  <div className="col-md-6">
+                    <div className="form-grp">
+                      <input type="number" placeholder="Phone *" />
+                    </div>
+                  </div>
+                  <div className="col-md-6">
+                    <div className="form-grp">
+                      <input type="text" placeholder="Subject *" />
+                    </div>
+                  </div>
+                  <div className="col-md-12">
+                    <div className="form-grp">
+                      <textarea placeholder="Comments *"></textarea>
+                    </div>
+                  </div>
+                </div>
+                <button type="submit">Submit Now</button>
+              </form>
             </div>
           </div>
         </div>

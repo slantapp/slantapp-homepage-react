@@ -16,16 +16,16 @@ export const ServiceOneItem = ({ service }) => {
         <div className="services-thumb">
           <img src={service.src} alt="" />
 
-          <Link to={service.href} className="btn transparent-btn">
+          <Link to="/services" className="btn transparent-btn">
             Our Services
           </Link>
         </div>
 
-        <ul className="list-wrap">
+        {/* <ul className="list-wrap">
           <li>seusmeyd tempose atidim area</li>
           <li>aliquam duhipsum is simply free</li>
           <li>Get Life Time Access</li>
-        </ul>
+        </ul> */}
       </div>
     </div>
   );

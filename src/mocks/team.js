@@ -30,19 +30,19 @@ import {
 
 
 export const TEAM_LIST_FIVE = [
-  {
-    id: 1,
-    href: "/team-details",
-    src: H5_TEAM_IMG03,
-    title: "Revelation Benson",
-    designation: "Chief Executive Officer",
-    socials: {
-      facebook: "",
-      instagram: "",
-      twitter: "",
-      linkedin: ""
-    }
-  },
+  // {
+  //   id: 1,
+  //   href: "/team-details",
+  //   src: H5_TEAM_IMG03,
+  //   title: "Revelation Benson",
+  //   designation: "Chief Executive Officer",
+  //   socials: {
+  //     facebook: "",
+  //     instagram: "",
+  //     twitter: "",
+  //     linkedin: ""
+  //   }
+  // },
   {
     id: 2,
     href: "/team-details",
@@ -139,19 +139,19 @@ export const TEAM_LIST_FIVE = [
 
 
 export const TEAM_LIST_ONE = [
-  {
-    id: 1,
-    href: "/team-details",
-    src: TEAM_IMG02,
-    title: "Revelation Benson",
-    designation: "Chief Executive Officer",
-    socials: {
-      facebook: "",
-      instagram: "",
-      twitter: "",
-      linkedin: ""
-    }
-  },
+  // {
+  //   id: 1,
+  //   href: "/team-details",
+  //   src: TEAM_IMG02,
+  //   title: "Revelation Benson",
+  //   designation: "Chief Executive Officer",
+  //   socials: {
+  //     facebook: "",
+  //     instagram: "",
+  //     twitter: "",
+  //     linkedin: ""
+  //   }
+  // },
   {
     id: 2,
     href: "/team-details",

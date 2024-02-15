@@ -50,7 +50,7 @@ export const TeamAreaFourItem = ({ member }) => {
 
       <div className="team-content-four">
         <h2 className="title">
-          <Link to={member.href}>{member.title}</Link>
+          <Link to="/services">{member.title}</Link>
         </h2>
         <span>{member.designation} </span>
       </div>

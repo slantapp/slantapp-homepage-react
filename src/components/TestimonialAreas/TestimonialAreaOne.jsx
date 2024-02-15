@@ -66,7 +66,7 @@ export const TestimonialAreaOne = () => {
               <div className="review-wrap">
                 <img src={RATING} alt="" />
                 <div className="content">
-                  <h2 className="title">300</h2>
+                  <h2 className="title">170+</h2>
                   <p>
                     Positive <br />
                     Review

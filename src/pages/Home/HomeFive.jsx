@@ -34,7 +34,7 @@ const HomeFive = () => {
       <ServiceOne />
 
       {/* counter-area */}
-      <CounterAreaOne />
+      {/* <CounterAreaOne /> */}
 
       {/* project-area */}
       {/* <ProjectAreaOne /> */}
